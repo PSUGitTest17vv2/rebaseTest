@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 int main()
 {
@@ -15,7 +14,6 @@ int main()
 	std::cout << "Sub: " << sub(a, b) << "\n";
 	std::cout << "Mul: " << mul(a, b) << "\n";
 	std::cout << "Div: " << div(a, b) << "\n";
-	std::cout << "Pow: " << pow(a, b) << "\n";
 
 	return 0;
 }
