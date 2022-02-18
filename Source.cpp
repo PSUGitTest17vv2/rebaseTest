@@ -12,7 +12,6 @@ int main()
 
 	std::cout << "Sum: " << sum(a, b) << "\n";
 	std::cout << "Sub: " << sub(a, b) << "\n";
-	std::cout << "Mul: " << mul(a, b) << "\n";
 
 	return 0;
 }
